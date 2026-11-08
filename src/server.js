@@ -57,6 +57,10 @@ function startSelfPing() {
       name: "Frontend",
       url: "https://medicine-frontend-1-0.onrender.com/drugs-info",
     },
+    {
+      name: "Backend Business",
+      url: "https://tmdtmedicine.onrender.com",
+    },
   ];
 
   const ping = async () => {
